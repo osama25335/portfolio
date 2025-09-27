@@ -1,7 +1,7 @@
 import './about.css';
 import AboutImg from '../../assets/about.jpg';
 import Info from './Info';
-import cv from '../../assets/cv.pdf'
+import cv from './cv.pdf'
 import { FileText } from 'lucide-react';
 function About() {
   return (
