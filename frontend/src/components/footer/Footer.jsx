@@ -13,7 +13,7 @@ function Footer() {
                 </ul>
 
                 <div className="footer__social">
-                    <a href="https://www.facebook.com/oussama.khelifa.baghdouche.2025" className='footer__social_link' target='_blank'><Facebook /></a>
+                    <a href="https://www.facebook.com/share/1Jp7Xf6JQn/" className='footer__social_link' target='_blank'><Facebook /></a>
                     <a href="https://github.com/osama25335" className='footer__social_link' target='_blank'><Github /></a>
                     <a href="https://www.instagram.com/ouss_ama_0505" className='footer__social_link' target='_blank'><Instagram /></a>
                 </div>
